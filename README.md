@@ -1,5 +1,5 @@
 # Design-Implementation-of-2-Bit-Multiplier-using-Cadence-Tools
-Ex No: 05     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
+Ex No: 06     Design & Implementation of 2 bit multiplier Using Cadence EDA Tools   
 
 Aim:
 To design and implement a 2-bit multiplier circuit using Cadence EDA tools, simulate its functionality, and to understand its application in digital arithmetic operations.
@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0032](https://github.com/user-attachments/assets/367dd590-0978-45bf-bbc9-84e181d23d0a)
+![Screenshot 2024-11-15 212157](https://github.com/user-attachments/assets/fc2e3ffe-de06-4327-987c-b0906c82140b)
+
 
  
 iii)	Creating the Symbol for schematic Cell view
@@ -65,7 +66,7 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0029](https://github.com/user-attachments/assets/bcea6826-7c9d-464b-a645-aa0f6b0c80aa)
+![WhatsApp Image 2024-11-15 at 21 30 11_023eb85d](https://github.com/user-attachments/assets/1503a2ca-ec9b-4521-83a3-3e3d8c8659fe)
 
 
 
@@ -80,7 +81,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0031](https://github.com/user-attachments/assets/11ad6598-e17a-42d3-becf-022d93e4e99d)
+![Screenshot 2024-11-13 125028](https://github.com/user-attachments/assets/4aadbb16-27c9-4410-b52c-d27d4ff149de)
+
 
  
 
@@ -95,14 +97,17 @@ Analog simulation by SPECTRE.
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
 
-![IMG-20241026-WA0016](https://github.com/user-attachments/assets/cefafc03-6c2e-4227-91fe-f21f1241754c)
+![Screenshot 2024-11-13 125135](https://github.com/user-attachments/assets/eeba5d44-0b2f-4c92-b047-c71f7327eb19)
+
 
 
 For Transient Analysis Settings and Output
-![IMG-20241019-WA0028](https://github.com/user-attachments/assets/ccc48800-045e-4cf8-b9d7-bf8fc443e8ae)
+![Screenshot 2024-11-13 125218](https://github.com/user-attachments/assets/26d8ce92-e7df-4864-8422-13c850088166)
 
 
- ![IMG-20241019-WA0027](https://github.com/user-attachments/assets/c13a30de-284c-4201-8bde-c9fc9e88234b)
+
+![Screenshot 2024-11-15 211605](https://github.com/user-attachments/assets/048cb64a-2bf7-4afd-ad2c-6af3fc5b619b)
+
 
   
 
